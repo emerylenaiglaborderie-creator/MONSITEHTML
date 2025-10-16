@@ -1,0 +1,39 @@
+/* General */
+
+* {
+    text-align:center;
+}
+
+/* Header */
+h1 {
+    font-family: 'Fontdiner Swanky', Arial, Helvetica, sans-serif;
+    color:darkred;
+    font-size: 100px;
+    -webkit-text-stroke: 1px white;
+}
+
+h2 {
+    font-family: 'Funnel Display', Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 40px;
+    -webkit-text-stroke: 1px black;
+    padding-bottom: 10%;
+}
+
+.title {
+    background: url("images/tomatoes.jpg") center/cover no-repeat;
+}
+
+/* Body */
+
+h3 {
+    font-family: 'Funnel Display', Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Funnel Display', Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+}
