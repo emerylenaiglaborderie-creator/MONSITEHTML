@@ -27,7 +27,33 @@ h2 {
         ),
         url("images/tomatoes.jpg") center/cover no-repeat;
 }
+/* Nav bar */
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100%;
+}
+.topnav {
+    background-color:darkred;
+    overflow: hidden;
+    padding:50px;
+}
+
+.topnav a {
+    color:white;
+    text-align:center;
+    margin: 120px;
+    font-size: 50px;
+    text-decoration: none;
+    font-family:'Fontdiner Swanky', Arial, Helvetica, sans-serif;
+}
+
+.topnav a:hover {
+    color: lightgray;
+}
 /* Body */
 
 h3 {
